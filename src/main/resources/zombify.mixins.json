@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "dev.cbyrne.zombify.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+        "ZombieEntityMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

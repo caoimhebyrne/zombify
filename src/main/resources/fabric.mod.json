@@ -1,0 +1,29 @@
+{
+    "schemaVersion": 1,
+    "id": "zombify",
+    "version": "${version}",
+    "name": "Zombify",
+    "description": "Prevents villagers from dying when converting to zombie villagers on any difficulty",
+    "authors": [
+        "cbyrneee"
+    ],
+    "contact": {
+        "repo": "https://github.com/cbyrneee/Zombify"
+    },
+    "license": "MIT",
+    "icon": "assets/zombify/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "dev.cbyrne.zombify.ZombifyMod"
+        ]
+    },
+    "mixins": [
+        "zombify.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.12.12",
+        "fabric": "*",
+        "minecraft": "1.18.1"
+    }
+}
