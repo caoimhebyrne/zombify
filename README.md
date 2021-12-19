@@ -4,6 +4,8 @@
 
 Normally, on easy or normal difficulty, villagers may die when converting to zombie villagers:
 
+#### Chance of villager successfully converting to a zombie villager
+
 | Difficulty | Chance (without the mod) | Chance (with the mod) |
 |------------|--------------------------|--------------------------|
 | Easy       | 0%                       | 100%                     |
