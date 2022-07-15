@@ -5,7 +5,7 @@
     "name": "Zombify",
     "description": "Prevents villagers from dying when converting to zombie villagers on any difficulty",
     "authors": [
-        "cbyrneee"
+        "Conor Byrne"
     ],
     "contact": {
         "repo": "https://github.com/cbyrneee/Zombify"
@@ -24,6 +24,6 @@
     "depends": {
         "fabricloader": ">=0.12.12",
         "fabric": "*",
-        "minecraft": "1.18.x"
+        "minecraft": ">=1.18"
     }
 }
