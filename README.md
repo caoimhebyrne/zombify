@@ -1,7 +1,6 @@
 # Zombify
 
 **Prevents villagers from dying when converting to zombie villagers on any difficulty**
-
 Normally, on easy or normal difficulty, villagers may die when converting to zombie villagers:
 
 #### Chance of villager successfully converting to a zombie villager
